@@ -17,6 +17,7 @@ int main()
     }
     for(j=i-1;j>=0;j--)
     {
+        cout<< "kiran";
         cout<<arr[j];
         cout<<' ';
     }
